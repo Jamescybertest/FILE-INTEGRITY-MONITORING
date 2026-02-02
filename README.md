@@ -1,2 +1,3 @@
-# Project 1: Using WAZUH SIEM Threat Detection and Log Analyis
-Security monitoring system using Wazuh to detect real-world threats in a home lab Environment. (Project in progress, resources will be uploaded soon)
+# Project 1: USING WAZUH SIEM FOR REAL-TIME INTEGRITY MONITORING 
+
+This project demonstrates how to monitor the Windows public directory (C:\Users\Public\) in real time using Wazuh SIEM to detect unauthorized file creation and potential attacker activity.
